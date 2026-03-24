@@ -4,11 +4,11 @@ import TiltCard from "@/components/portfolio/TiltCard";
 
 const projects = [
   {
-    title: "Somana",
+    title: "Clinic Management System",
     description:
-      "AI-powered platform with storytelling, blogs, movie & music recommendations, authentication, and user-generated content. A comprehensive entertainment and content creation hub.",
-    tech: ["Next.js", "React", "MongoDB", "Supabase", "REST APIs"],
-    github: "https://github.com/Utkarshxx",
+      "Comprehensive system with roles for Admin, Doctor, Receptionist, and Lab Assistant. Features patient registration, appointment scheduling, customizable prescriptions, and automated billing workflows.",
+    tech: ["React", "Node.js", "Express", "MongoDB", "Tailwind CSS"],
+    github: "https://github.com/Utkarshxx/Clinic-Management-System-",
   },
   {
     title: "Child Labour Reporting System",
